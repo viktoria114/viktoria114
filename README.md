@@ -3,7 +3,7 @@
 
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/maría-victoria-arancio-oviedo-b01854262/)**
 - 📫 How to reach me **aranciomarivi@gmail.com** ୨ৎ
-- 📝 I studied at UnLaR ✮⋆˙
+- 📝 A fourth-year Systems Engineering undergrad at UnLaR, 21 y/o ✮⋆˙
 - 💫 I’m a full-stack web developer, currently learning animations in Front-end.
 
 
