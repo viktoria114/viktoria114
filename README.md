@@ -18,11 +18,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" style="height: 4rem" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" style="height: 4rem" />
-<img src="  https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem" />
-<img src="  https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" style="height: 4rem" />
-<img src="  https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" style="height: 4rem" />
-<img src="  https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" style="height: 4rem" />
-<img src="  https://github.com/devicons/devicon/blob/v2.16.0/icons/vercel/vercel-original-wordmark.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vercel/vercel-original-wordmark.svg" style="height: 4rem" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
