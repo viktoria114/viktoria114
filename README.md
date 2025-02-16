@@ -10,7 +10,7 @@
 <br><br>
 
 
-<h3 align="Center">Languages and Tools:</h3>  
+<h3 align="Center"> ⋆.˚ Languages and Tools ˚.⋆</h3>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
@@ -30,6 +30,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />
 </p>
 
+<div align="center">
+<h3 align="center">────୨ৎ────</h3> 
+
+ </div>
+
+ <div align="center">
+  <a href="https://github.com/viktoria114">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoria114&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **viktoria114/viktoria114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
