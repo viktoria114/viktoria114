@@ -6,10 +6,6 @@
 - 📝 A fourth-year Systems Engineering undergrad at UnLaR, 21 y/o ✮⋆˙
 - 💫 I’m a full-stack web developer, currently learning animations in Front-end.
 
-
-<br><br>
-
-
 <h3 align="Center"> ⋆.˚ Languages and Tools ˚.⋆</h3>  
 <p align="center">
 
@@ -34,7 +30,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />
 </p>
 <div align="center">
-<h3 align="center">────୨ৎ────</h3> 
+<h3 align="center">────────୨ৎ────────</h3> 
 
  </div>
 
