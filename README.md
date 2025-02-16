@@ -1,5 +1,6 @@
+<div align="center">
 ## Oh, hi! I'm Viktoria Arancio ⊹₊⟡⋆
-
+ </div>
 
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/maría-victoria-arancio-oviedo-b01854262/)**
 - 📫 How to reach me **aranciomarivi@gmail.com** ୨ৎ
