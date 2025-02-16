@@ -1,7 +1,7 @@
 ## Oh, hi! I'm Viktoria Arancio ⊹₊⟡⋆
 
 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/maría-victoria-arancio-oviedo-b01854262/)**
 - 📫 How to reach me **aranciomarivi@gmail.com**
 - 📝 I studied at UnLaR
 
