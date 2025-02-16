@@ -1,6 +1,7 @@
-<div align="center">
-## Oh, hi! I'm Viktoria Arancio ⊹₊⟡⋆
- </div>
+
+<p>
+  <h1 align="center"><b>Oh, hi! I'm Viktoria Arancio ⊹₊⟡⋆</b></h1>
+</p>
 
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/maría-victoria-arancio-oviedo-b01854262/)**
 - 📫 How to reach me **aranciomarivi@gmail.com** ୨ৎ
